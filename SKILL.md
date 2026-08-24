@@ -99,3 +99,7 @@ VRIO 是工具链的**内部评估入口**，与 PESTEL、五力共同构成 SWO
 - **外部对照**：`pestel-analysis`（宏观 O/T）+ `porters-five-forces`（行业 O/T），与 VRIO 的 S/W 在 `swot-analysis` 汇合
 - **收敛与落地**：VRIO 识别的优势资源 → `swot-analysis` 的 S 象限 → SO 战略 → `smart-goal-setter` 落成目标
 - **关系说明**：VRIO 不做外部环境扫描（那是 PESTEL/五力的活），聚焦"我们凭什么赢"的内部资源能力审计；产物通常作为 SWOT 上游 feeder 被直接引用。
+
+## 反馈与问题咨询
+- 本技能的使用反馈、问题咨询、改进建议，请发邮件至：**engicool@agent.qq.com**
+- 该邮箱仅用于本技能的使用反馈与问题咨询，不承接营销或其他无关诉求。
